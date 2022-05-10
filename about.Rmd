@@ -1,0 +1,9 @@
+---
+title: "NLP Project"
+output: html_document
+---
+The name of the project is "Retrieving and Dissemiating Informaton about Disasters through Natural Language Processing Tools". The information from disasters plays a very important role in emergency decision making. Much of the information from disasters is contained in text documents. Extracting relevant information from these heterogeneous text documents is very challenging. Effective methods to extract and collect information from these historical text documents helps to build a knowledge base so that researchers can access this helpful information and can use it for further analysis. Ontology based semantic technology is a powerful tool that supports information extraction and integration and builds a knowledge base from heterogeneous information sources. The goal of this project is to provide an ontology-based approach to enable natural language process (NLP) tools to extract information from text documents about disasters. The innovation of this approach is to propose a disaster ontology that enables researchers and managers to identify and capture numerical information on prior disasters. Me and Dr. MacKenzie work on this project. This research will be integrated into a NSF CAREER proposal in summer 2022 that will be submitted to the Human, Disasters, and the Built Environment program.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

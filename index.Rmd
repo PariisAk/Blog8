@@ -1,0 +1,11 @@
+---
+title: "About Me"
+author: "Parastoo Akbari"
+output: html_document
+---
+Hi, My name is Paris Akbari. I am a PhD student in industrial engineering at iowa state university. Here, I want to talk about one of my projects that I am currently working on. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

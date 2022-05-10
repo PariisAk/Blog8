@@ -1,0 +1,8 @@
+name: "Paris Website"
+navbar:
+  title: "My Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "My Project"
+      href: about.html
